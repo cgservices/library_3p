@@ -1,0 +1,7 @@
+/.idea
+/.buildpath
+/.project
+/.settings
+/.zfproject.xml
+/nbproject
+php/vendor
