@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/giftcards/!svn/ver/42/trunk/library/Text/Diff/Renderer
+END
+inline.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/giftcards/!svn/ver/42/trunk/library/Text/Diff/Renderer/inline.php
+END
+context.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/giftcards/!svn/ver/42/trunk/library/Text/Diff/Renderer/context.php
+END
+unified.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/giftcards/!svn/ver/42/trunk/library/Text/Diff/Renderer/unified.php
+END
