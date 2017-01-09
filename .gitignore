@@ -4,4 +4,4 @@
 /.settings
 /.zfproject.xml
 /nbproject
-php/vendor
+.DS_Store
